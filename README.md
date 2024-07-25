@@ -5,10 +5,7 @@ This project involves the creation of a comprehensive Credit Card Financial Dash
 
 Key Features:
 Transaction Analysis,
-
 Financial Performance,
-
 Credit Risk Analysis,
-
 Interactive Dashboards
 
