@@ -2,9 +2,9 @@
 This project involves the creation of a comprehensive Credit Card Financial Dashboard using Power BI. The dashboard provides insights into credit card transactions, customer spending patterns, and overall financial performance. The goal is to help financial analysts, managers, and stakeholders make informed decisions based on interactive visualizations and data analytics.
 
 Using Tools:
-PowerBI
-Postgre SQL
-PgAdmin4
+PowerBI,
+Postgre SQL,
+PgAdmin4,
 
 Key Features:
 Transaction Analysis,
